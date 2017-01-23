@@ -1,2 +1,2 @@
 # Laravel-Project-2
-Simple TaskList
+Simple Task List
